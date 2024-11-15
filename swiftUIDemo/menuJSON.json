@@ -1,0 +1,30 @@
+[{
+
+"catagory": "Full Meals",
+"items": [{
+    "name": "Lassagne",
+    "totalCalories": 390,
+    "isFavourite": true,
+    "addedToday": 1,
+    "components": [{
+            "name": "Pasta",
+            "varietyName": "Sheets",
+            "varietyCalories": 3,
+            "totalCalories": 90,
+            "quantity": 30,
+            "unit": "g"
+
+        },
+        {
+            "name": "Beef",
+            "varietyName": "Mince",
+            "varietyCalories": 10,
+            "totalCalories": 300,
+            "quantity": 30,
+            "unit": "g"
+        }
+    ]
+
+}]
+},]
+
